@@ -1,8 +1,8 @@
-# Pagina-web-FG2
-Esto es el codigo fuente de mi pagina web, es algo simple pero pode ayudarte a programar tu pagina web.
+# Page-web-FG2
+This is the source code of my web page, it is somewhat simple but it can help you to program your web page.
 
-### pagina de inicio
+### homepage
 <img class="img-fluid" src="https://i.imgur.com/GusSlux.png" alt="">
 
-### Diseño del menu
+### Menu design
 <img class="img-fluid" src="https://i.imgur.com/LpoXpqE.png" alt="">
